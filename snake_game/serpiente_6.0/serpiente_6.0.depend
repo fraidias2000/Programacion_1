@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1547749111 source:d:\aculplay\desktop\ingenieria_informatica\programacion_1\serpiente\serpiente_6.0\serpiente_6.0\main.cpp
+	<iostream>
+	"terminal.h"
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1535018872 d:\aculplay\desktop\ingenieria_informatica\programacion_1\serpiente\serpiente_6.0\serpiente_6.0\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+
+1547749112 source:c:\users\aculplay\desktop\abdelaziz\1\primer cuatrimestre\programacion_1\serpiente\serpiente_6.0\serpiente_6.0\main.cpp
+	<iostream>
+	"terminal.h"
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1535018874 c:\users\aculplay\desktop\abdelaziz\1\primer cuatrimestre\programacion_1\serpiente\serpiente_6.0\serpiente_6.0\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+
